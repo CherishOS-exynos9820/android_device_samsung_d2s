@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 The cherishOS Project
+# Copyright (C) 2021 The bananaOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_d2s.mk
+    $(LOCAL_DIR)/banana_d2s.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_d2s-eng \
-    cherish_d2s-user \
-    cherish_d2s-userdebug
+    banana_d2s-eng \
+    banana_d2s-user \
+    banana_d2s-userdebug
